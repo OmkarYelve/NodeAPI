@@ -1,6 +1,6 @@
-📁 Project Structure
+## 📁 Project Structure
 
-unique-places-api/
+```
 ├── data/
 │   └── data.js
 ├── database/
@@ -11,4 +11,4 @@ unique-places-api/
 │   └── getDataByQueryParams.js
 ├── server.js
 └── package.json
-
+```
