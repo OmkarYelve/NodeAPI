@@ -1,6 +1,6 @@
 📁 Project Structure
 
-
+unique-places-api/
 ├── data/
 │   └── data.js
 ├── database/
